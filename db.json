@@ -1,0 +1,28 @@
+{
+  "jogos": [
+    {
+      "id": 1,
+      "imagem": "assets/img/fifa.png",
+      "produto": "fifa",
+      "valor": "R$100,00"
+    },
+    {
+      "id": 2,
+      "imagem": "assets/img/farcry6.png",
+      "produto": "farcry6",
+      "valor": "R$100,00"
+    },
+    {
+      "id": 3,
+      "imagem": "assets/img/cyberpunk.png",
+      "produto": "cyberpunk",
+      "valor": "R$100,00"
+    },
+    {
+      "imagem": "assets/img/farcry6.png",
+      "titulo": "acessórios",
+      "descricao": "valores",
+      "id": 4
+    }
+  ]
+}
