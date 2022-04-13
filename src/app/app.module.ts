@@ -7,12 +7,14 @@ import { ContatoComponent } from './views/contato/contato.component';
 import { JogadorComponent } from './views/jogador/jogador.component';
 import { HomeComponent } from './views/home/home.component';
 import { HttpClientModule } from '@angular/common/http';
+import { LoginComponent } from './views/login/login.component';
 @NgModule({
   declarations: [
     AppComponent,
     ContatoComponent,
     JogadorComponent,
     HomeComponent,
+    LoginComponent,
   ],
   imports: [
     BrowserModule,

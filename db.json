@@ -1,4 +1,18 @@
 {
+  "users": [
+    {
+      "email": "renata.95.silva@gmail.com",
+      "password": "batata123",
+      "nome": "Renata",
+      "id": 1
+    },
+    {
+      "email": "caique@gmail.com",
+      "password": "$2a$10$tC.M0xU/vS2FB7HaOJq49eMC55JhHVQ9JBQU/pwd.uWgLBSahJhoC",
+      "nome": "Caique",
+      "id": 2
+    }
+  ],
   "jogos": [
     {
       "id": 1,
