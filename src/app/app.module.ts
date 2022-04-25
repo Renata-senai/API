@@ -8,6 +8,7 @@ import { JogadorComponent } from './views/jogador/jogador.component';
 import { HomeComponent } from './views/home/home.component';
 import { HttpClientModule } from '@angular/common/http';
 import { LoginComponent } from './views/login/login.component';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 @NgModule({
   declarations: [
     AppComponent,
@@ -20,6 +21,8 @@ import { LoginComponent } from './views/login/login.component';
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
+    FormsModule , 
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
